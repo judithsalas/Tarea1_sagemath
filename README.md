@@ -1,5 +1,6 @@
 # Tarea1_sagemath
 Se han respondido a las siguientes preguntas en cocalc con kernel Sagemath:
+
 Divide 28 por 2 elevado a la quinta potencia como número racional y obtén después su aproximación decimal
 
 Obtén una aproximación decimal de raíz cuadrada de 2
